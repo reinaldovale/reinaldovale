@@ -1,10 +1,11 @@
+<!--
 <div align="center">
 
 [![][eu-url]][repo-url]  
 
 **Reinaldo Vale**  
 [ [Veja ↗︎][repo-url] ]
-  
+-->
 
 </div>
 
